@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/first-nft/static/css/main.44e56e98.chunk.css",
+    "main.js": "/first-nft/static/js/main.da3ea28f.chunk.js",
+    "main.js.map": "/first-nft/static/js/main.da3ea28f.chunk.js.map",
+    "runtime-main.js": "/first-nft/static/js/runtime-main.a9924a4a.js",
+    "runtime-main.js.map": "/first-nft/static/js/runtime-main.a9924a4a.js.map",
+    "static/js/2.e07c3ab3.chunk.js": "/first-nft/static/js/2.e07c3ab3.chunk.js",
+    "static/js/2.e07c3ab3.chunk.js.map": "/first-nft/static/js/2.e07c3ab3.chunk.js.map",
+    "static/js/3.3536e4e7.chunk.js": "/first-nft/static/js/3.3536e4e7.chunk.js",
+    "static/js/3.3536e4e7.chunk.js.map": "/first-nft/static/js/3.3536e4e7.chunk.js.map",
+    "index.html": "/first-nft/index.html",
+    "static/css/main.44e56e98.chunk.css.map": "/first-nft/static/css/main.44e56e98.chunk.css.map",
+    "static/js/2.e07c3ab3.chunk.js.LICENSE.txt": "/first-nft/static/js/2.e07c3ab3.chunk.js.LICENSE.txt",
+    "static/media/twitter-logo.ab177c79.svg": "/first-nft/static/media/twitter-logo.ab177c79.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a9924a4a.js",
+    "static/js/2.e07c3ab3.chunk.js",
+    "static/css/main.44e56e98.chunk.css",
+    "static/js/main.da3ea28f.chunk.js"
+  ]
+}
